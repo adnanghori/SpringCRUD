@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+	background-color: gray;
+}
+h2{
+	display: inline-block;
+	font-family: sans-serif;
+	padding-left: 45%;
+	padding-top: 20%;
+}
